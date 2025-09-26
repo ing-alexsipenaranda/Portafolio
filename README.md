@@ -140,7 +140,6 @@ You can view and edit the design of this template on Figma. Here is the [Figma d
 ## Author and License
 
 - **Author**: SofiDev / Garrux
-- **License**: MIT
 
 ## Bugs and Issues
 
